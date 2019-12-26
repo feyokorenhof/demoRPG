@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2a2c8304-15d1-4c73-bbfc-c96aea813a21",
+            "Value": {
+                "id": "4d0e9139-3e36-4659-a9ff-4676fede72f7",
+                "resourcePath": "scripts\\fadeout\\fadeout.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "34c6a02d-7ef0-4366-94d5-b90da027c31f",
             "Value": {
                 "id": "50bf83b3-07bc-4de6-8bb5-2479639568c1",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "76a8c53f-594a-477d-a6b1-5c407152f2ce",
+            "Value": {
+                "id": "c9bda9ba-6210-4683-9055-9dfcc7d001b3",
+                "resourcePath": "sprites\\sPortal\\sPortal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "776814a9-8536-48de-af2b-4d63fedd8943",
             "Value": {
                 "id": "7dfb1588-3e4b-4628-b8b8-c24257768a2d",
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "c081c6b3-8d13-4d1e-ac84-ab96c667510b",
                 "resourcePath": "views\\77f66117-1195-4dcf-a84e-2bc57457e33c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7806d17e-419e-4097-959a-d334d6db2600",
+            "Value": {
+                "id": "367e1d48-a15c-41ff-8aeb-a7aebe531f01",
+                "resourcePath": "views\\7806d17e-419e-4097-959a-d334d6db2600.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -219,6 +243,14 @@
             "Value": {
                 "id": "aa583c75-d045-45b5-9df7-84f591cd58dd",
                 "resourcePath": "objects\\camera\\camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "98d726e8-7c60-4fbd-85a1-a6272d7a85e1",
+            "Value": {
+                "id": "bf8f4817-52a9-49ea-9d72-7708d1bbdd9d",
+                "resourcePath": "objects\\oPortal\\oPortal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -255,6 +287,14 @@
             }
         },
         {
+            "Key": "ba0b36b4-444c-45e4-81ae-bfdb3ea0c6eb",
+            "Value": {
+                "id": "b74919ab-cb69-4254-b2e3-fae39d44bb53",
+                "resourcePath": "rooms\\room_brickhouse_l2\\room_brickhouse_l2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "bbefdb09-8b4c-4070-86c2-1a7e4d3edd5c",
             "Value": {
                 "id": "0f0e3e71-689a-4222-bdb6-232abd0c9d70",
@@ -268,6 +308,14 @@
                 "id": "8dad53cb-beec-48cf-9800-52a891b81a79",
                 "resourcePath": "sprites\\sTerrain\\sTerrain.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c089fca8-df02-4c6c-a006-b91d673f99ab",
+            "Value": {
+                "id": "38d63ca4-ed8c-4f0f-b27c-b90b2557b432",
+                "resourcePath": "rooms\\room_brickhouse_l1\\room_brickhouse_l1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -300,6 +348,22 @@
                 "id": "d4a55ed0-6957-4767-8186-5d704eb4ae33",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d9638d90-7a42-4da6-9322-c849396ac800",
+            "Value": {
+                "id": "7cbf4225-876c-487a-b69b-2bf5a80bc20e",
+                "resourcePath": "objects\\oFade\\oFade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e017b8d9-64a3-405c-99bc-2306381dc89d",
+            "Value": {
+                "id": "26435e13-4739-4d02-8f55-4d284823955e",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -336,7 +400,7 @@
         }
     ],
     "script_order": [
-        
+        "2a2c8304-15d1-4c73-bbfc-c96aea813a21"
     ],
     "tutorial": ""
 }
