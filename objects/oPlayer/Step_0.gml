@@ -50,3 +50,32 @@ if(moveY != 0){
 //Apply movement
 x += moveX;
 y += moveY;
+
+// Animation
+
+if(abs(moveX) == r_spd)
+{
+	sprite_index = sPlayerR;	
+}
+else if(abs(moveX) == n_spd)
+{
+	sprite_index = sPlayerN;
+}
+else if(abs(moveX) == w_spd)
+{
+	sprite_index = sPlayerW;
+}
+else if(moveX == 0 && moveY == 0)
+{
+	sprite_index = sPlayerI;
+}
+	
+
+if (moveX != 0) image_xscale = sign(moveX);
+if (moveY < 0){
+	sprite_index = sPlayerU;
+}
+if (moveY > 0)
+{
+	sprite_index = sPlayerD;
+}
