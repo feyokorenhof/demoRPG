@@ -1,3 +1,3 @@
 target = room1;
-xx = oPlayer.x;
-yy = oPlayer.y - 50;
+xx = 175;
+yy = 30;

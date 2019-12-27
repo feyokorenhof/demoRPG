@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "31e8e0e3-4d62-41f8-bf9c-a99f94692f07",
+            "Value": {
+                "id": "c6d910b8-f265-4038-ad1b-3e3d53a86bea",
+                "resourcePath": "rooms\\room_brickhouse_l2\\room_brickhouse_l2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "34c6a02d-7ef0-4366-94d5-b90da027c31f",
             "Value": {
                 "id": "50bf83b3-07bc-4de6-8bb5-2479639568c1",
@@ -290,7 +298,7 @@
             "Key": "ba0b36b4-444c-45e4-81ae-bfdb3ea0c6eb",
             "Value": {
                 "id": "b74919ab-cb69-4254-b2e3-fae39d44bb53",
-                "resourcePath": "rooms\\room_brickhouse_l2\\room_brickhouse_l2.yy",
+                "resourcePath": "rooms\\room_brickhouse_l1\\room_brickhouse_l1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -308,14 +316,6 @@
                 "id": "8dad53cb-beec-48cf-9800-52a891b81a79",
                 "resourcePath": "sprites\\sTerrain\\sTerrain.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c089fca8-df02-4c6c-a006-b91d673f99ab",
-            "Value": {
-                "id": "38d63ca4-ed8c-4f0f-b27c-b90b2557b432",
-                "resourcePath": "rooms\\room_brickhouse_l1\\room_brickhouse_l1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

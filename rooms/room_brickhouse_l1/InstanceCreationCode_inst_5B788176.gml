@@ -1,3 +1,3 @@
 target = room1;
-xx = 525;
+xx = 530;
 yy = 400;

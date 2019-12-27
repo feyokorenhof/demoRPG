@@ -1,3 +1,3 @@
 /// @description
-randomize();
-room_goto_next();
+//randomize();
+//room_goto_next();
