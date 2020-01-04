@@ -1,5 +1,6 @@
 /// @description Draw Fadeout
 // You can write your code in this editor
+// @param teleport
 draw_set_color(fade_color);
 draw_set_alpha(image_alpha);
 
